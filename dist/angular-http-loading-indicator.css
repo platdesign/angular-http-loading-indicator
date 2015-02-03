@@ -1,0 +1,7 @@
+/*
+@project	angular-http-loading-indicator
+@author		Christian Blaschke <mail@platdesign.de>
+@version	0.0.1
+@created	2015-02-03 18:10:02
+*/
+[http-loading-indicator]{opacity:0;-webkit-transition:-webkit-transform .3s,opacity .4s;transition:transform .3s,opacity .4s;-webkit-transform:translateY(-40px);-ms-transform:translateY(-40px);transform:translateY(-40px)}[http-loading-indicator].http-loading-active{opacity:1;-webkit-transform:translateY(0);-ms-transform:translateY(0);transform:translateY(0)}

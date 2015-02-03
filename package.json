@@ -1,0 +1,13 @@
+{
+  "name": "angular-http-loading-indicator",
+  "description": "Detects $http activity. Status can be prompted from service.",
+  "author":"Christian Blaschke <mail@platdesign.de>",
+  "version": "0.0.1",
+  "dependencies": {},
+  "repository": "",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "pd-gulp-js-task": "git://github.com/platdesign/pd-gulp-js-task",
+    "pd-gulp-sass-task": "git://github.com/platdesign/pd-gulp-sass-task"
+  }
+}

@@ -1,0 +1,12 @@
+
+// An example only!
+[http-loading-indicator] {
+	opacity: 0;
+	transition: transform .3s, opacity .4s;
+	transform: translateY(-40px);
+
+	&.http-loading-active {
+		opacity: 1;
+		transform: translateY(0);
+	}
+}
